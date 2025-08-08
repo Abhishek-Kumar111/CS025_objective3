@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Minimal base overrides to keep design clean */
+html, body, #root {
+  height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
